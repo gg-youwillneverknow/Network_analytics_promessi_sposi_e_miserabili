@@ -1,0 +1,489 @@
+Source, Target
+Don Abbondio, Bravi
+Don Abbondio, Perpetua
+Bravi, Perpetua
+Renzo, Don Abbondio
+Renzo, Perpetua
+Renzo, Lucia
+Renzo, Agnese
+Renzo, Bettina
+Don Abbondio, Lucia
+Don Abbondio, Agnese
+Don Abbondio, Bettina
+Perpetua, Lucia
+Perpetua, Agnese
+Perpetua, Bettina
+Lucia, Agnese
+Lucia, Bettina
+Renzo, Don Rodrigo
+Renzo, Conte Attilio
+Renzo, Azzecca-garbugli
+Renzo, Serva
+Renzo, Fra Galdino
+Lucia, Don Rodrigo
+Lucia, Conte Attilio
+Lucia, Azzecca-garbugli
+Lucia, Serva
+Lucia, Fra Galdino
+Don Rodrigo, Conte Attilio
+Don Rodrigo, Azzecca-garbugli
+Don Rodrigo, Serva
+Don Rodrigo, Fra Galdino
+Conte Attilio, Azzecca-garbugli
+Conte Attilio, Serva
+Conte Attilio, Fra Galdino
+Azzecca-garbugli, Serva
+Serva, Fra Galdino
+Padre Cristofaro, Lucia
+Padre Cristofaro, Agnese
+Padre Cristofaro, Padre di Lodovico
+Padre Cristofaro, Cristofaro
+Padre Cristofaro, Nobile ucciso
+Padre Cristofaro, Fratello nobile ucciso
+Lucia, Padre di Lodovico
+Lucia, Cristofaro
+Lucia, Nobile ucciso
+Lucia, Fratello nobile ucciso
+Agnese, Padre di Lodovico
+Agnese, Cristofaro
+Agnese, Nobile ucciso
+Agnese, Fratello nobile ucciso
+Padre di Lodovico, Cristofaro
+Padre di Lodovico, Nobile ucciso
+Padre di Lodovico, Fratello nobile ucciso
+Cristofaro, Fratello nobile ucciso
+Cristofaro, Nobile ucciso
+Nobile ucciso, Fratello nobile ucciso
+Padre Cristofaro, Renzo
+Padre Cristofaro, Don Rodrigo
+Padre Cristofaro, Conte Attilio
+Padre Cristofaro, Podesta di Lecco
+Padre Cristofaro, Azzecca-garbugli
+Renzo, vecchio servitore
+Padre Cristofaro, vecchio servitore
+Renzo, Podesta di Lecco
+Lucia, Podesta di Lecco
+Lucia, vecchio servitore
+Padre Cristofaro, Tonio
+Padre Cristofaro, Gervaso
+Don Rodrigo, vecchio servitore
+Don Rodrigo, Agnese
+Don Rodrigo, Tonio
+Don Rodrigo, Gervaso
+vecchio servitore, Agnese
+vecchio servitore, Tonio
+vecchio servitore, Gervaso
+Renzo, Tonio
+Renzo, Gervaso
+Lucia, Tonio
+Lucia, Gervaso
+Agnese, Tonio
+Agnese, Gervaso
+Tonio, Gervaso
+Padre Cristofaro, Perpetua
+Padre Cristofaro, Griso
+Padre Cristofaro, Menico
+Padre Cristofaro, Bravi
+Padre Cristofaro, Oste
+Renzo, Griso
+Renzo, Menico
+Renzo, Bravi
+Renzo, Oste
+Lucia, Griso
+Lucia, Menico
+Lucia, Bravi
+Lucia, Oste
+Agnese, Conte Attilio
+Agnese, Griso
+Agnese, Menico
+Agnese, Bravi
+Agnese, Oste
+Tonio, Perpetua
+Tonio, Conte Attilio
+Tonio, Griso
+Tonio, Menico
+Tonio, Bravi
+Tonio, Oste
+Gervaso, Perpetua
+Gervaso, Conte Attilio
+Gervaso, Griso
+Gervaso, Menico
+Gervaso, Oste
+Gervaso, Bravi
+Don Rodrigo, Perpetua
+Perpetua, Conte Attilio
+Perpetua, Griso
+Perpetua, Menico
+Perpetua, Oste
+Don Rodrigo, Griso
+Don Rodrigo, Menico
+Don Rodrigo, Bravi
+Don Rodrigo, Oste
+Conte Attilio, Griso
+Conte Attilio, Menico
+Conte Attilio, Bravi
+Conte Attilio, Oste
+Griso, Menico
+Griso, Bravi
+Griso, Oste
+Menico, Bravi
+Menico, Oste
+Oste, Bravi
+Renzo, Ambrogio
+Renzo, Console
+Renzo, Fra Fazio
+Lucia, Ambrogio
+Lucia, Console
+Agnese, Fra Fazio
+Agnese, Ambrogio
+Agnese, Console
+Agnese, Fra Fazio
+Tonio, Don Abbondio
+Tonio, Console
+Tonio, Fra Fazio
+Gervaso, Console
+Gervaso, Don Abbondio
+Gervaso, Fra Fazio
+Perpetua, Ambrogio
+Perpetua, Console
+Perpetua, Fra Fazio
+Don Abbondio, Fra Fazio
+Don Abbondio, Griso
+Don Abbondio, Menico
+Don Abbondio, Ambrogio
+Don Abbondio, Console
+Griso, Fra Fazio
+Menico, Ambrogio
+Menico, Console
+Menico, Fra Fazio
+Ambrogio, Padre Cristofaro
+Ambrogio, Console
+Console, Padre Cristofaro
+Console, Fra Fazio
+Renzo, Barocciaio
+Renzo, Padre guardiano
+Renzo, fattoressa
+Renzo, Gertrude
+Renzo, Padre di Gertrude
+Renzo, Madre Badessa
+Agnese, Padre guardiano
+Agnese, fattoressa
+Agnese, Padre di Gertrude
+Agnese, Madre Badessa
+Lucia, Barocciaio
+Lucia, Padre guardiano
+Lucia, fattoressa
+Lucia, Gertrude
+Lucia, Padre di Gertrude
+Lucia, Madre Badessa
+Barocciaio, Madre Badessa
+Barocciaio, Padre guardiano
+Barocciaio, fattoressa
+Barocciaio, Gertrude
+Barocciaio, Padre di Gertrude
+Barocciaio, Madre Badessa
+Padre guardiano, fattoressa
+Padre guardiano, Madre Badessa
+Padre guardiano, Padre di Gertrude
+fattoressa, Gertrude
+fattoressa, Padre di Gertrude
+fattoressa, Madre Badessa
+Gertrude, Padre di Gertrude
+Padre di Gertrude, Madre Badessa
+Madre Badessa, Gertrude
+Agnese, Vicario
+Agnese, Egidio
+Agnese, Conversa
+Lucia, Vicario
+Lucia, Egidio
+Lucia, Conversa
+Gertrude, Vicario
+Gertrude, Egidio
+Gertrude, Conversa
+Vicario, Conversa
+Vicario, Madre Badessa
+Vicario, Egidio
+Madre Badessa, Egidio
+Madre Badessa, Conversa
+Conversa, Egidio
+Don Rodrigo, Don Abbondio
+Don Abbondio, Conte Attilio
+Renzo, Antonio Ferrer
+Renzo, Don Gonzalo
+Renzo, Capitano di giustizia
+Antonio Ferrer, Don Gonzalo
+Antonio Ferrer, Capitano di giustizia
+Capitano di giustizia, Don Gonzalo
+Renzo, Vicario Provvisone
+Renzo, Vecchio mal vissuto
+Renzo, Cocchiere Pedro
+Antonio Ferrer, Vicario Provvisone
+Antonio Ferrer, Vecchio mal vissuto
+Antonio Ferrer, Cocchiere Pedro
+Vicario Provvisone, Vecchio mal vissuto
+Vicario Provvisone, Cocchiere Pedro
+Cocchiere Pedro, Vecchio mal vissuto
+Renzo, Ambrogio Fusella
+Renzo, Oste Luna Piena
+Oste Luna Piena, Ambrogio Fusella
+Renzo, Notaio
+Notaio, Oste Luna Piena
+Renzo, vecchia osteria
+Renzo, oste Gorgonzola
+Renzo, mercante
+vecchia osteria, oste Gorgonzola
+mercante, oste Gorgonzola
+Renzo, Bortolo
+Renzo, Pescatore
+Bortolo, Pescatore
+Lucia, Innominato
+Lucia, Console
+Lucia, Conte Zio
+Lucia, Pescaiolo
+Agnese, Innominato
+Agnese, Conte Attilio
+Agnese, Podesta di Lecco
+Agnese, Azzecca-garbugli
+Agnese, Console
+Agnese, Conte Zio
+Agnese, Pescaiolo
+Agnese, Fra Galdino
+Padre Cristofaro, fattoressa
+Padre Cristofaro, Innominato
+Padre Cristofaro, Conte Zio
+Padre Cristofaro, Fra Galdino
+Padre Cristofaro, Pescaiolo
+Don Rodrigo, fattoressa
+Don Rodrigo, Gertrude
+Don Rodrigo, Podesta di Lecco
+Don Rodrigo, Innominato
+Don Rodrigo, Console
+Don Rodrigo, Conte zio
+Don Rodrigo, Pescaiolo
+Conte Attilio, fattoressa
+Conte Attilio, Gertrude
+Conte Attilio, Innominato
+Conte Attilio, Podesta di Lecco
+Conte Attilio, Console
+Conte Attilio, Pescaiolo
+fattoressa, Griso
+fattoressa, Innominato
+fattoressa, Podesta di Lecco
+fattoressa, Console
+fattoressa, Conte Zio
+fattoressa, Fra Galdino
+fattoressa, Pescaiolo
+Gertrude, Griso
+Gertrude, Innominato
+Gertrude, Podesta di Lecco
+Gertrude, Console
+Gertrude, Fra Galdino
+Griso, Pescaiolo
+Griso, Innominato
+Griso, Podesta di Lecco
+Griso, Conte Zio
+Griso, Fra Galdino
+Innominato, Pescaiolo
+Innominato, Fra Galdino
+Innominato, Podesta di Lecco
+Innominato, Conte Zio
+Podesta di Lecco, Console
+Podesta di Lecco, Conte Zio
+Podesta di Lecco, Fra Galdino
+Podesta di Lecco, Pescaiolo
+Console, Conte Zio
+Console, Fra Galdino
+Conte Zio, Pescaiolo
+Conte Zio, Fra Galdino
+Fra Galdino, Pescaiolo
+Padre Cristofaro, Padre Cappuccini
+Don Rodrigo, Padre Cappuccini
+Innominato, Conte Zio
+Innominato, Padre Cappuccini
+Innominato, Bravi
+Conte Zio, Bravi
+Bravi, Padre Cappuccini
+Lucia, Nibbio
+Lucia, Vecchia castello
+Vecchia castello, Gertrude
+Vecchia castello, Egidio
+Gertrude, Nibbio
+Egidio, Don Rodrigo
+Egidio, Griso
+Egidio, Innominato
+Egidio, Nibbio
+Egidio, Bravi
+Don Rodrigo, Nibbio
+Griso, Nibbio
+Griso, Vecchia castello
+Innominato, Nibbio
+Innominato, Vecchia castello
+Vecchia castello, Bravi
+Vecchia castello, Marta
+Innominato, Marta
+Nibbio, Vecchia castello
+Nibbio, Bravi
+Nibbio, Marta
+Lucia, Cardinal Borromeo
+Lucia, Cappellano
+Cardinal Borromeo, Innominato
+Innominato, Cappellano
+Cardinal Borromeo, Vecchia castello
+Cardinal Borromeo, Marta
+Cardinal Borromeo, Bravi
+Cardinal Borromeo, Cappellano
+Cappellano, Vecchia castello
+Cappellano, Marta
+Cappellano, Bravi
+Bravi, Marta
+Don Abbondio, Innominato
+Don Abbondio, Cardinal Borromeo
+Don Abbondio, Cappellano
+Don Abbondio, moglie sarto
+Innominato, moglie sarto
+Lucia, sarto
+Lucia, moglie sarto
+Lucia, Don Ferrante
+Lucia, Donna Prassede
+Agnese, Podesta di Lecco
+Agnese, Cardinal Borromeo
+Agnese, sarto
+Agnese, moglie sarto
+Agnese, Donna Prassede
+Agnese, Don Ferrante
+Agnese, Cappellano
+Don Abbondio, Podesta di Lecco
+Don Abbondio, Azzecca-garbugli
+Don Abbondio, Cardinal Borromeo
+Don Abbondio, sarto
+Don Abbondio, moglie sarto
+Don Abbondio, Don Ferrante
+Don Abbondio, Donna Prassede
+Don Abbondio, Cappellano
+Don Rodrigo, Cardinal Borromeo
+Don Rodrigo, sarto
+Don Rodrigo, moglie sarto
+Don Rodrigo, Don Ferrante
+Don Rodrigo, Cappellano
+Griso, Podesta di Lecco
+Griso, Azzecca-garbugli
+Griso, Cardinal Borromeo
+Griso, sarto
+Griso, moglie sarto
+Griso, Don Ferrante
+Griso, Donna Prassede
+Griso, Cappellano
+Bravi, Podesta di Lecco
+Bravi, sarto
+Bravi, moglie sarto
+Bravi, Azzecca-garbugli
+Bravi, Donna Prassede
+Bravi, Don Ferrante
+Podesta di Lecco, Cardinal Borromeo
+Podesta di Lecco, Azzecca-garbugli
+Podesta di Lecco, Cappellano
+Podesta di Lecco, sarto
+Podesta di Lecco, moglie sarto
+Podesta di Lecco, Don Ferrante
+Podesta di Lecco, Donna Prassede
+Azzecca-garbugli, Cardinal Borromeo
+Azzecca-garbugli, sarto
+Azzecca-garbugli, moglie sarto
+Azzecca-garbugli, Don Ferrante
+Azzecca-garbugli, Donna Prassede
+Azzecca-garbugli, Cappellano
+Cardinal Borromeo, sarto
+Cardinal Borromeo, moglie sarto
+Cardinal Borromeo, Don Ferrante
+Cardinal Borromeo, Donna Prassede
+sarto, moglie sarto
+Donna Prassede, sarto
+Don Ferrante, sarto
+Cappellano, moglie sarto
+Donna Prassede, moglie sarto
+Don Ferrante, moglie sarto
+Don Ferrante, Donna Prassede
+Don Ferrante, Cappellano
+Cappellano, Donna Prassede
+Renzo, Cardinal Borromeo
+Renzo, Innominato
+Renzo, Donna Prassede
+Renzo, Bortolo
+Renzo, Don Gonzalo
+Lucia, Bortolo
+Lucia, Don Gonzolo
+Agnese, Don Gonzalo
+Agnese, Bortolo
+Cardinal Borromeo, Bortolo
+Cardinal Borromeo, Don Gonzalo
+Cardinal Borromeo, Innominato
+Innominato, Donna Prassede
+Innominato, Bortolo
+Innominato, Don Gonzolo
+Donna Prassede, Bortolo
+Donna Prassede, Don Gonzalo
+Bortolo, Don Gonzalo
+Renzo, Don Ferrrante
+Alessio, Renzo
+Alessio, Lucia
+Alessio, Agnese
+Alessio, Bortolo
+Bortolo, Don Ferrante
+Alessio, Donna Prassede
+Alessio, Don Ferrante
+Antonio Ferrer, Cardinal Borromeo
+Antonio Ferrer, Ambrogio Spinola
+Ambrogio Spinola, Don Gonzalo
+Perpetua, sarto
+Perpetua, moglie sarto
+Perpetua, Innominato
+Ambrogio Spinola, Federigo Borromeo
+Ambrogio Spinola, Padre Felice
+Federigo Borromeo, Padre Felice
+Antonio Ferrer, Monatti
+Federigo Borromeo, Monatti
+Renzo, amico Renzo
+Renzo, Monatti
+Don Abbondio, Bortolo
+Don Abbondio, amico Renzo
+Don Abbondio, Monatti
+Don Rodrigo, Bortolo
+Don Rodrigo, Tonio
+Don Rodrigo, amico Renzo
+Don Rodrigo, Monatti
+Griso, Bortolo
+Griso, Monatti
+Griso, amico Renzo
+Tonio, amico Renzo
+Monatti, amico Renzo
+Monatti, Tonio
+Renzo, passante
+Renzo, donna sequestrata
+Renzo, Prete
+Renzo, Madre Cecilia
+Renzo, accusatrice di Renzo
+passante, donna sequestrata
+donna sequestrata, Monatti
+donna sequestrata, Prete
+donna sequestrata, Madre Cecilia
+donna sequestrata, accusatrice di Renzo
+Monatti, Prete
+Monatti, Madre Cecilia
+Monatti, accusatrice di Renzo
+Prete, Madre Cecilia
+Prete, accusatrice di Renzo
+Madre Cecilia, accusatrice di Renzo
+Padre Cristofaro, Monatti
+Padre Cristofaro, mercantessa
+Padre Felice, Monatti
+Padre Felice, mercantessa
+mercantessa, Monatti
+Ambrogio, amico Renzo
+Ambrogio, Bortolo
+Erede di Rodrigo, Don Abbondio
+Erede di Rodrigo, Agnese
+Erede di Rodrigo, Renzo
+Erede di Rodrigo, Lucia
+Erede di Rodrigo, mercantessa
+Ambrogio, mercantessa
+Padre Cristofaro, Don Abbondio
